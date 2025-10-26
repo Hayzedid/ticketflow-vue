@@ -1,39 +1,39 @@
-# 🎫 TicketFlow - Vue.js Implementation
+# TicketFlow - Vue.js Implementation
 
 A stunning, modern ticket management web application built with Vue 3, featuring premium UI design, smooth animations, and comprehensive functionality.
 
-## ✨ Features
+## Features
 
-### 🎨 **Modern UI Design**
+### **Modern UI Design**
 - **Glassmorphism Effects**: Beautiful frosted glass design with backdrop blur
 - **Gradient Backgrounds**: Stunning purple-to-blue gradient themes
 - **Smooth Animations**: Fade-in, slide-in, and floating animations
 - **Inter Typography**: Modern, professional font family
 - **Responsive Design**: Mobile-first approach with max-width 1440px container
 
-### 🔐 **Authentication System**
+### **Authentication System**
 - **Secure Login/Signup**: Form validation and error handling
 - **Protected Routes**: Authentication-based route protection
 - **Session Management**: Persistent login state with Pinia store
 
-### 📊 **Dashboard & Analytics**
+### **Dashboard & Analytics**
 - **Statistics Overview**: Real-time ticket metrics and insights
 - **Quick Actions**: Fast access to common operations
 - **Modern Cards**: Glassmorphism design with hover effects
 
-### 🎟️ **Ticket Management**
+### **Ticket Management**
 - **Full CRUD Operations**: Create, Read, Update, Delete tickets
 - **Priority Levels**: Low, Medium, High priority system
 - **Status Tracking**: Open, In Progress, Closed status management
 - **Search & Filter**: Advanced filtering capabilities
 
-### 🎯 **Premium Features**
+### **Premium Features**
 - **Micro-interactions**: Button hover effects and shimmer animations
 - **Form Validation**: Real-time validation with clear error messages
 - **Loading States**: Elegant loading indicators and transitions
 - **Accessibility**: WCAG compliant design and keyboard navigation
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Vue 3** - Progressive JavaScript framework with Composition API
 - **TypeScript** - Type-safe JavaScript development
